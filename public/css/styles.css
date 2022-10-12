@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.button{
+    background-color: #FBE0DC;
+    padding:10px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 25px;
+}
+
+.font{
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 700px;
+    font-family: 'Quicksand', sans-serif;
+    color: #272042;
+}
+
+.font2{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.btn{
+    background-color:  #F7C531;
+    padding:10px 20px 10px 20px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 25px;
+}
+
+.fn{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 100;
+}
+
+.fn2{
+    font-size: 32px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.fn3{
+    font-size: 20px ;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.clr{
+    color: #F7C531;
+    display: inline-block;
+    border-bottom: 5px solid #F7C531;
+    padding-bottom: 1px;
+}
+
+.pr{
+    margin-top: 2px;
+    font-size: 22px;
+    text-align: center;
+    font-family: 'Quicksand', sans;
+}
+
+.rp{
+    text-align: center;
+    font-weight: lighter;
+    font-size: 15px;
+    font-family: 'Quicksand', sans;
+}
+
+.fs{
+    text-align: center;
+    font-size:32px;
+    font-family: 'Quicksand', sans;
+}
+
+.pq{
+    text-align: center;
+}
+
+.fnt{
+    text-align: center;
+    font-size: 30px;
+}
+
+.fr{
+    font-family: 'Quicksand', sans;
+}
+
+.tb{
+    font-family: 'Quicksand', sans;
+}
